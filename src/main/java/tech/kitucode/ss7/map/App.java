@@ -1,4 +1,4 @@
-package tech.kitucode.ss7;
+package tech.kitucode.ss7.map;
 
 public class App {
 
